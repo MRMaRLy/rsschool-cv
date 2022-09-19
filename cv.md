@@ -1,6 +1,6 @@
 # Moschin Maxim
 
-### Beginer front-end developer
+ ### Beginer front-end developer
 *******
 
 ![my_photo](https://user-images.githubusercontent.com/101500097/184494045-1ee5b084-59da-49dc-8bff-56cabf2ab8a3.png)
